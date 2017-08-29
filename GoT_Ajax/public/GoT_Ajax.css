@@ -1,0 +1,60 @@
+nav.navbar.navbar-default {
+	background-image: url("https://i.pinimg.com/originals/62/9d/6c/629d6c062d74a99979c7b04accc11115.gif");
+	margin-bottom: 3em;
+}
+
+.navbar-brand {
+	color: white !important;
+	font-weight: bold;
+}
+
+.btn-primary , .form-control {
+	border: 2px solid black !important;
+}
+
+.btn-primary {
+	padding: 5px 10px;
+	background-color: darkgrey;
+}
+
+.btn-primary:hover {
+	background-color: black;
+}
+
+td {
+	padding-right: 4.5em;
+	background-color: white;
+	border: 2px solid black !important;
+}
+
+th {
+	background-color: lightgrey;
+	border-bottom: 2px solid black !important;
+	border-right: 2px solid black !important;
+	border-left: 2px solid black !important;
+}
+
+.h1 , h1 {
+	size: 5em !important; -----
+}
+
+
+.well {
+	background-color: white;
+	border: 5px solid black;
+}
+
+.table {
+	border: 5px solid black;
+	padding: 0;
+	margin-bottom: 0;
+}
+
+body {
+	background-color: grey;
+}
+
+.foot {
+	margin: 5em;
+	background-color: grey;
+}
