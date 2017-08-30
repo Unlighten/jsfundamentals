@@ -33,3 +33,17 @@ function anotherFunction() {
 }
 
 // Global Scope
+
+
+
+//Local Scope
+//Variables defined inside a function are in the local scope. And they have a different scope for every call of that function. 
+//This means that variables having the same name can be used in different functions. 
+//This is because those variables are bound to their respective functions, each having different scopes, and are not accessible in other functions.
+
+
+
+//Global Scope
+//When you start writing JavaScript in a document, you are already in the Global scope. 
+//There is only one Global scope throughout a JavaScript document.
+//A variable is in the Global scope if it's defined outside of a function.
